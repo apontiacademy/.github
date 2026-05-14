@@ -23,9 +23,9 @@ Garantir:
 
 Todos os repositórios devem seguir obrigatoriamente o seguinte padrão:
 
-# 📌 Definição de Cada Campo
+#  Definição de Cada Campo
 
-## 🔹 [nome] (Obrigatório)
+##  [nome] (Obrigatório)
 
 Nome principal do projeto ou iniciativa.
 
@@ -35,7 +35,7 @@ Nome principal do projeto ou iniciativa.
 - Sem acentos  
 - Pode ser palavra composta, mas sem separação por espaço  
 
-### ✅ Exemplos válidos:
+### Exemplos válidos:
 -mascots
 -insightboard
 
@@ -43,5 +43,25 @@ Nome principal do projeto ou iniciativa.
 
 Sigla do estado com **2 letras minúsculas**.
 
-### ✅ Exemplos:
+### Exemplos:
+pe
+sp
+ba
+
+
+## {t[turma]e[equipe]-} (Opcional)
+
+Bloco utilizado apenas quando houver identificação de turma e equipe.
+
+###  Formato obrigatório:
+t[numero]e[numero]
+### Exemplos válidos:
+t9e1
+t7e4
+t10e2
+
+
+
+
+
 
