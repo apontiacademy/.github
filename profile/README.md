@@ -1,7 +1,7 @@
-# 📘 PADRÃO OFICIAL DE NOMENCLATURA
+# PADRÃO OFICIAL DE NOMENCLATURA
 ## Organização de Repositórios e Pastas
 
-## 🎯 Finalidade
+##  Finalidade
 
 Este documento estabelece as **regras obrigatórias de nomenclatura** para o uso de:
 
@@ -9,7 +9,7 @@ Este documento estabelece as **regras obrigatórias de nomenclatura** para o uso
 - Pastas principais  
 - Estruturas internas de projetos  
 
-## 🚀 Objetivo
+##  Objetivo
 
 Garantir:
 
@@ -19,7 +19,7 @@ Garantir:
 - Facilidade de busca  
 - Governança adequada dos projetos  
 
-# 🏗 Estrutura Oficial de Nomeação
+# Estrutura Oficial de Nomeação
 
 Todos os repositórios devem seguir obrigatoriamente o seguinte padrão:
 
@@ -38,4 +38,10 @@ Nome principal do projeto ou iniciativa.
 ### ✅ Exemplos válidos:
 -mascots
 -insightboard
+
+##  [uf] (Obrigatório)
+
+Sigla do estado com **2 letras minúsculas**.
+
+### ✅ Exemplos:
 
