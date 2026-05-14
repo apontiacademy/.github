@@ -23,4 +23,19 @@ Garantir:
 
 Todos os repositórios devem seguir obrigatoriamente o seguinte padrão:
 
+# 📌 Definição de Cada Campo
+
+## 🔹 [nome] (Obrigatório)
+
+Nome principal do projeto ou iniciativa.
+
+### Regras:
+- Apenas letras minúsculas  
+- Sem espaços  
+- Sem acentos  
+- Pode ser palavra composta, mas sem separação por espaço  
+
+### ✅ Exemplos válidos:
+-mascots
+-insightboard
 
