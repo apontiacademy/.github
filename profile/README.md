@@ -3,6 +3,9 @@
 
 ##  Finalidade
 
+### Visite
+- [CARTILHA OFICIAL DE PADRONIZAÇÃO](https://docs.google.com/document/d/1MvAodf3p_3Hgvu8PxlhIikTfy5Lyx7aN6j_QO4G6Xgc/edit?usp=sharing)
+
 Este documento estabelece as **regras obrigatórias de nomenclatura** para o uso de:
 
 - Repositórios  
