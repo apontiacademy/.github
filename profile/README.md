@@ -61,9 +61,80 @@ t[numero]e[numero]
 t9e1
 t7e4
 t10e2
+⚠ Caso não exista turma/equipe, remover completamente este bloco (inclusive o hífen).
 
 
 
+## [projeto] (Obrigatório)
 
+Código ou nome reduzido do projeto.
+
+### Regras:
+- Sem espaços  
+- Sem caracteres especiais  
+- Sem hífen interno  
+- Sem acentos  
+
+###  Exemplos válidos:
+bfd
+fap
+
+##  [ano] (Obrigatório)
+
+Ano do projeto em dois ou quatro dígitos.
+
+###  Exemplos:
+24
+2024
+##  [fase] (Opcional)
+
+Identificador da fase do projeto.
+
+###  Identificadores permitidos:
+
+| Código | Significado |
+|--------|------------|
+| `pi` | Projeto Integrador |
+| `pm` | Projeto Mensal |
+| `re` | Residência |
+
+### ✅ Exemplos válidos:
+pi
+pm
+re
+#  Exemplos Estruturais (Modelo)
+
+##  Com turma e equipe
+
+[nome]-[uf]-t9e1-[projeto]25pm
+
+
+### Exemplo:
+
+
+mascots-pe-t9e1-fap25pm
+[nome]-[uf]-[projeto]25re
+
+
+### Exemplo:
+
+
+insightboard-pe-BFD25re
+
+
+---
+
+#  Regras Gerais Obrigatórias
+
+- Utilizar apenas hífen (-) como separador  
+- Não utilizar espaços  
+- Não utilizar underline (_)  
+- Não utilizar caracteres especiais  
+- Não alterar a ordem da estrutura  
+- Validar antes da criação do repositório  
+- Não alterar o nome após criação sem autorização formal  
+
+
+ Este padrão é obrigatório para todos os membros da organização.
 
 
